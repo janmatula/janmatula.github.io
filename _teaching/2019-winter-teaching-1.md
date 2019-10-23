@@ -8,5 +8,5 @@ date: 2019-09-24
 location: "Brno, Czech republic"
 ---
 
-The course is oriented to the use of information technology in medicine and biology. It is focused on medical data: acquisition, storage and exploitation, systems based on patients‘ computer records, health information systems, decision-making in medicine, standards imn medical informatics, introduction to bioinformatics, fundamentals of genetic information processing.
+The course is oriented to the use of information technology in medicine and biology. It is focused on medical data: acquisition, storage and exploitation, systems based on patients‘ computer records, health information systems, decision-making in medicine, standards in medical informatics, introduction to bioinformatics, fundamentals of genetic information processing.
 
