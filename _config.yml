@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "cs-CZ"
-title                    : "Jan Matula / Perosnal Page"
+title                    : "Jan Matula / Personal Page"
 title_separator          : "-"
 name                     : &name "Jan Matula"
-description              : &description "PhD student at CEITEC BUT"
+description              : &description "PhD student at the X-ray computed tomography lab, CEITEC BUT"
 url                      : https://janmatula.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "janmatula/janmatula.github.io"
@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "PhD student at CEITEC BUT"
   location         : "Brno, Czech republic"
-  employer         :  CEITEC
+  employer         : "CEITEC"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "jan.matula2@ceitec.vutbr.cz"
   researchgate     :  "https://www.researchgate.net/profile/Jan_Matula3/"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jan-matula-957425123/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
