@@ -11,49 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biomedical Engineering and Bioinformatics, Brno University of Technology, 2017
+* M.S. in Biomedical Engineering and Bioinformatics, Brno University of Technology, 2019
+* Ongoing PhD in Advanced Nanotechnologies and Mictotechnologies, Central European Institute of Technology, expected to finish in 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul 2019 - now: Research assistant: Micro and nano computed tomography
+  * CEITEC BUT
+  * Duties included: Work on various tasks in the X-ray micro- and nano- computed tomography workflow from practical measurements and raw data processingto preparation of final outputs for both research publications and industrial partners. Work with specialized image processing software (Avizo, VG Studio) and development of new tools in Python.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Jul 2018 − Jul 2019: Undergraduate student: Methods for image segmentation
+  * CEITEC BUT
+  * Duties included: Development of a robust method for soft tissue segmentationin microCT images with focus on machine learning methods for image processing. Mainly working with Python and relevantimage processing (OpenCV, Scikit image) and deep learning(Tensorflow, Keras) libraries.
+ 
+* Oct 2016 − Feb 2018: Internship: Administrative Manufacturing Support
+  * Thermo Fisher Scientific
+  * Duties included: Reporting, creating and maintaining VBA scripts, maintaining manufacturing databases, new employee support, maintaining 5s, realization of continuous process improvement ideas.
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Matlab and R programming
+* Image data processing and analysis
+* Avizo, VG Studio MAX and Dragonfly software for image data analysis
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Summer schools and training
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* Thermo Fisher Scientific Avizo training, Berlin (Germany), 2020
+* XV School on Synchrotron Radiation “Gilberto Vlaic”: Fundamentals, Methodsand ApplicationsTwo week school, Muggia (Italy), 2019
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Obtained grants
 ======
-* Currently signed in to 43 different slack teams
+* CEITEC BUT specific research grant, Deep learning assisted segmentation of X-ray computed tomography images, 2020
+
+
