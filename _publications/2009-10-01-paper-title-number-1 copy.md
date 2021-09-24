@@ -2,7 +2,7 @@
 title: "Segmentation of cartilage tissue in micro CT images of mouse embryos with modified U-net convolutional neural network"
 collection: publications
 permalink: /publication/segmentation-eeict
-excerpt: 'This paper deals with the use of artificial intelligence for segmentation of biological structures in micro computed tomographyy images.'
+excerpt: 'This paper deals with the use of artificial intelligence for segmentation of biological structures in micro computed tomography images.'
 date: 2019-03-13
 venue: 'Proceedings of the 25th Conference STUDENT EEICT 2019'
 paperurl: 'https://conf.feec.vutbr.cz/eeict/'
